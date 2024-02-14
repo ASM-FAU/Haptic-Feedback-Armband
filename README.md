@@ -4,6 +4,8 @@ The haptic feedback armband was mainly designed for prosthesis appliacations. It
 
 ## Software
 The software is split into two parts for the client device (the haptic feedback armband) and a master PC that it communicates with. The architecture is shown in the follong Figure.
+![Ros_overview](https://github.com/ASM-FAU/Haptic-Feedback-Armband/assets/141027919/b78747be-4555-4fe0-9160-5b28fc6a3a56)
+
 
 ## Hardware
 The armband consists of 5 modules in total. A main module, containing the PCB, battery and senors as well as a vibration motor and smaller modules containing a vibration motor only. The casing was 3D printed using FDM and PLA filament. The flexible links were printed with TPU filament. This is how the armband looks like:
