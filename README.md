@@ -9,3 +9,6 @@ The software is split into two parts for the client device (the haptic feedback 
 
 ## Hardware
 The armband consists of 5 modules in total. A main module, containing the PCB, battery and senors as well as a vibration motor and smaller modules containing a vibration motor only. The casing was 3D printed using FDM and PLA filament. The flexible links were printed with TPU filament. This is how the armband looks like:
+![Armband_3D_View](https://github.com/ASM-FAU/Haptic-Feedback-Armband/assets/141027919/1785485f-5e78-4347-92ee-84d4b8889d9c)
+![main_module](https://github.com/ASM-FAU/Haptic-Feedback-Armband/assets/141027919/88b7e59b-bf38-4f70-b87f-b88ff5b84325)
+![sub_module](https://github.com/ASM-FAU/Haptic-Feedback-Armband/assets/141027919/8aa3fcda-d4c6-4201-bdf7-a9fc979093d3)
